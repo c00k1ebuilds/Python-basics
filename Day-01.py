@@ -84,7 +84,7 @@ print('girrafe\nacademy')
 print('girrafe\"academy')
 
 # for just a back slash we use \
-print('girrafe\academy')
+print('girrafe\\academy')
 
 
 # --- SECTION 5: NUMBERS & ARITHMETIC ---
