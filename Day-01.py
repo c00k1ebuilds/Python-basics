@@ -1,6 +1,6 @@
 # ============================================
 # DAY 01 — Python Basics
-# April 19-20, 2026
+# April 21, 2026
 # ============================================
 
 
@@ -39,11 +39,11 @@ print('but didnt liked being ' + character_age + '.')
 
 # --- SECTION 3: STRING FUNCTIONS ---
 
-#we can use variable for string too
+# we can use variable for string too
 phrase='girrafe academy'
 print(phrase)
 
-#we use concatenation for joining or linking 2 strings or data or more
+# we use concatenation for joining or linking 2 strings or data or more
 print(phrase + ' is cool')
 
 # functions are little block of code which we run and it performs a specific operation for us.
