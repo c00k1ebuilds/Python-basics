@@ -25,48 +25,6 @@ one concept per file. one day at a time.
 
 <br/>
 
-**★ 　 ﹒ 　 🐍 　 ∷ 　 concepts covered**
-
-<br/>
-
-
-
-![](https://img.shields.io/badge/VARIABLES-learning-7c3aed?style=for-the-badge)
-
- &nbsp; 
-
-![](https://img.shields.io/badge/DATA_TYPES-learning-7c3aed?style=for-the-badge)
-
-![](https://img.shields.io/badge/INPUT-learning-7c3aed?style=for-the-badge)
-
- &nbsp; 
-
-![](https://img.shields.io/badge/IF_ELSE-learning-7c3aed?style=for-the-badge)
-
-![](https://img.shields.io/badge/LOOPS-soon-4c1d95?style=for-the-badge)
-
- &nbsp; 
-
-![](https://img.shields.io/badge/FUNCTIONS-soon-4c1d95?style=for-the-badge)
-
-![](https://img.shields.io/badge/LISTS-soon-4c1d95?style=for-the-badge)
-
- &nbsp; 
-
-![](https://img.shields.io/badge/DICTIONARIES-soon-4c1d95?style=for-the-badge)
-
-![](https://img.shields.io/badge/OOP-soon-4c1d95?style=for-the-badge)
-
- &nbsp; 
-
-![](https://img.shields.io/badge/FILE_HANDLING-soon-4c1d95?style=for-the-badge)
-
-<br/>
-
----
-
-<br/>
-
 **★ 　 ﹒ 　 🌙 　 ∷ 　 status**
 
 <br/>
