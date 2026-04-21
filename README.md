@@ -17,7 +17,7 @@
 <br/>
 
 files written daily while learning Python from scratch.
-one concept per file. one day at a time.
+one concept per file. one day at a time. Doing the coding work on tablet.
 
 <br/>
 
@@ -33,13 +33,9 @@ one concept per file. one day at a time.
 
 ![](https://img.shields.io/badge/📱_PYDROID_3-writing_code_daily-22c55e?style=for-the-badge&labelColor=0f172a)
 
- &nbsp; 
-
 ![](https://img.shields.io/badge/🐍_PYTHON-just_starting-7c3aed?style=for-the-badge&labelColor=0f172a)
 
 ![](https://img.shields.io/badge/💻_LAPTOP-not_yet·tablet_only-4c1d95?style=for-the-badge&labelColor=0f172a)
-
- &nbsp; 
 
 ![](https://img.shields.io/badge/📅_STARTED-april_2026-c084fc?style=for-the-badge&labelColor=0f172a)
 
@@ -90,7 +86,7 @@ one concept per file. one day at a time.
 
 <br/>
 
-*started april 2026 · building in public · watch this repo grow*
+`` started april 2026 · building in public · watch this repo grow ``
 
 <br/>
 
