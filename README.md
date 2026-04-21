@@ -64,11 +64,11 @@ one concept per file. one day at a time.
 
 
 
-![](https://img.shields.io/badge/IF_ELSE_LOGIC-✅_cleared-22c55e?style=for-the-badge&labelColor=0f172a)
+![](https://img.shields.io/badge/IF_ELSE_LOGIC-🔄_in_progress-22c55e?style=for-the-badge&labelColor=0f172a)
 
  &nbsp; 
 
-![](https://img.shields.io/badge/BOOLEAN_LOGIC-✅_cleared-22c55e?style=for-the-badge&labelColor=0f172a)
+![](https://img.shields.io/badge/BOOLEAN_LOGIC-🔄_in_progress-22c55e?style=for-the-badge&labelColor=0f172a)
 
 
 
