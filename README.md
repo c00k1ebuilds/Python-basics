@@ -37,19 +37,11 @@ one concept per file. one day at a time.
 
 ![](https://img.shields.io/badge/DATA_TYPES-learning-7c3aed?style=for-the-badge)
 
-
-
-
-
 ![](https://img.shields.io/badge/INPUT-learning-7c3aed?style=for-the-badge)
 
  &nbsp; 
 
 ![](https://img.shields.io/badge/IF_ELSE-learning-7c3aed?style=for-the-badge)
-
-
-
-
 
 ![](https://img.shields.io/badge/LOOPS-soon-4c1d95?style=for-the-badge)
 
@@ -57,27 +49,17 @@ one concept per file. one day at a time.
 
 ![](https://img.shields.io/badge/FUNCTIONS-soon-4c1d95?style=for-the-badge)
 
-
-
-
-
 ![](https://img.shields.io/badge/LISTS-soon-4c1d95?style=for-the-badge)
 
  &nbsp; 
 
 ![](https://img.shields.io/badge/DICTIONARIES-soon-4c1d95?style=for-the-badge)
 
-
-
-
-
 ![](https://img.shields.io/badge/OOP-soon-4c1d95?style=for-the-badge)
 
  &nbsp; 
 
 ![](https://img.shields.io/badge/FILE_HANDLING-soon-4c1d95?style=for-the-badge)
-
-
 
 <br/>
 
@@ -97,32 +79,12 @@ one concept per file. one day at a time.
 
 ![](https://img.shields.io/badge/🐍_PYTHON-just_starting-7c3aed?style=for-the-badge&labelColor=0f172a)
 
-
-
-
-
 ![](https://img.shields.io/badge/💻_LAPTOP-not_yet·tablet_only-4c1d95?style=for-the-badge&labelColor=0f172a)
 
  &nbsp; 
 
 ![](https://img.shields.io/badge/📅_STARTED-april_2026-c084fc?style=for-the-badge&labelColor=0f172a)
 
-
-
-<br/>
-
-```python
-# where i am right now
-device   = "Samsung tablet + Pydroid 3"
-laptop   = None  # not yet
-started  = "April 19, 2026"
-goal     = "ML engineer · masters abroad · fully funded"
-status   = "day 1 of ∞"
-```
-
-<br/>
-
----
 
 <br/>
 
