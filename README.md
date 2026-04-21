@@ -2,9 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=120&section=header&text=python-basics&fontSize=36&fontColor=ffffff&animation=fadeIn" />
 
-`labdhi belani` · `c00k1ebuilds` · `written on a phone · no laptop · no excuses`
-
-*every file here is something i actually understood before i wrote it.*
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Crimson+Text&size=19&duration=3500&pause=1200&color=C8B8FF&center=true&vCenter=true&width=700&height=40&lines=every+file+here+is+something+i+actually+understood+before+i+wrote+it.;on+tablet.+with+pydroid.+no+laptop." alt="subtitle" />
+</p>
 
 ---
 
