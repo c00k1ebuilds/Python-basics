@@ -56,7 +56,7 @@ one concept per file. one day at a time. Doing the coding work on tablet.
 
  &nbsp; 
 
-![](https://img.shields.io/badge/IF_ELSE_LOGIC-⬜_not_yet-4c1d95??style=for-the-badge&labelColor=0f172a)
+![](https://img.shields.io/badge/IF_ELSE_LOGIC-⬜_not_yet-4c1d95?style=for-the-badge&labelColor=0f172a)
 
 ![](https://img.shields.io/badge/BOOLEAN_LOGIC-🔄_in_progress-eab308?style=for-the-badge&labelColor=0f172a)
 
