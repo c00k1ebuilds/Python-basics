@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=python-basics&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=65&desc=%20c00kiebuilds%20·%20building%20from%20zero&descSize=13&descAlignY=82&descColor=c084fc" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Python-Basics&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=65&desc=%20c00kiebuilds%20·%20building%20from%20zero&descSize=13&descAlignY=82&descColor=c084fc" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Crimson+Text&size=19&duration=3500&pause=1200&color=C8B8FF&center=true&vCenter=true&width=700&height=40&lines=every+file+here+is+something+i+actually+understood+before+i+wrote+it.;on+tablet.+with+pydroid.+no+laptop." alt="subtitle" />
