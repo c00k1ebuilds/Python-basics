@@ -1,6 +1,7 @@
-Day 03 — April 23, 2026
-
-Rest day. Burnout hit. Still showed up. Revising what I know.
+# ============================================
+# DAY 03 — Rest day. Burnout hit. Still showed up. Revising what I know.
+# April 23, 2026
+# ============================================
 
 --- REVISION: VARIABLES ---
 
